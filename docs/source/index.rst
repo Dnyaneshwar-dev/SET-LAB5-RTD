@@ -1,10 +1,6 @@
-Welcome to Lumache's documentation!
+Welcome to Everybyte's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -12,11 +8,18 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   
+   **Everybyte Coderooms** makes your coding discussions easy using collaborative code editor and features like running the code, Voice Chat, Saving the code for further use and many more...
 
-Contents
---------
+   Technologies Used:
 
-.. toctree::
+   React.js
+   Node.js
+   Socket.io
+   Nodemailer
+   OAuth 2.0
+   Redis Pub/Sub
+   
+   Live at : https://everybyte-coderooms.herokuapp.com
 
-   usage
-   api
+
